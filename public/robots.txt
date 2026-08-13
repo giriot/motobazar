@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /dashboard
+Disallow: /dealer/dashboard
+Disallow: /api/
+Disallow: /auth/
+Disallow: /*?*filters*
+Disallow: /*?*sort*
+
+# Sitemap
+Sitemap: https://motobazar.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1

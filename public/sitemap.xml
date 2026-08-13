@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Static Pages -->
+  <url><loc>https://motobazar.com/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://motobazar.com/new-bikes</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://motobazar.com/used-bikes</loc><changefreq>daily</changefreq><priority>0.9</priority></url>
+  <url><loc>https://motobazar.com/sell</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://motobazar.com/dealer-offers</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://motobazar.com/compare</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://motobazar.com/bike-price</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://motobazar.com/reviews</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://motobazar.com/news</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
+  <url><loc>https://motobazar.com/bike-value</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+
+  <!-- City Pages -->
+  <url><loc>https://motobazar.com/used-bikes/chennai</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://motobazar.com/used-bikes/bengaluru</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://motobazar.com/used-bikes/mumbai</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://motobazar.com/used-bikes/delhi</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://motobazar.com/used-bikes/hyderabad</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+  <url><loc>https://motobazar.com/used-bikes/pune</loc><changefreq>daily</changefreq><priority>0.8</priority></url>
+
+  <!-- Brand Pages -->
+  <url><loc>https://motobazar.com/new-bikes/honda</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://motobazar.com/new-bikes/royal-enfield</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://motobazar.com/new-bikes/yamaha</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://motobazar.com/new-bikes/tvs</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://motobazar.com/new-bikes/bajaj</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://motobazar.com/new-bikes/hero</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://motobazar.com/new-bikes/ktm</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://motobazar.com/new-bikes/suzuki</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+
+  <!-- Articles -->
+  <url><loc>https://motobazar.com/news/best-bikes-under-1-lakh</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://motobazar.com/news/used-bike-buying-guide</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://motobazar.com/news/best-scooters-daily-commuting</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+  <!-- Legal Pages -->
+  <url><loc>https://motobazar.com/legal/about</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://motobazar.com/legal/contact</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://motobazar.com/legal/privacy-policy</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
+  <url><loc>https://motobazar.com/legal/terms</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
+</urlset>
